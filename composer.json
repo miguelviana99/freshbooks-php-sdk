@@ -1,5 +1,5 @@
 {
-    "name": "amcintosh/freshbooks",
+    "name": "miguelviana99/freshbooks",
     "description": "FreshBooks API wrapper",
     "type": "library",
     "require": {
@@ -22,12 +22,12 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "amcintosh\\FreshBooks\\": "src"
+            "miguelviana99\\FreshBooks\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "amcintosh\\FreshBooks\\Tests\\": "tests"
+            "miguelviana99\\FreshBooks\\Tests\\": "tests"
         }
     },
     "authors": [
